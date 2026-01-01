@@ -1,0 +1,5 @@
+{
+  "name": "Nomi ka habit tracker",
+  "description": "An AI-powered habit tracker that uses Gemini 3 Flash to generate personalized identity statements, motivational coaching, and provides deep insights into your progress.",
+  "requestFramePermissions": []
+}
